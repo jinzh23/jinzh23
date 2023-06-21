@@ -4,9 +4,8 @@
 
 I am a motivated and dedicated software developer graduate with a strong foundation in programming and a serious passion in front-end for UI effects and creating intuitive, dynamic user experiences. I have more than 8-years of experience in multi-media design.
 
-With a solid understanding of various programming languages, frameworks, and development methodologies, I am equipped to contribute to cutting-edge projects in the software development industry. 
+With a solid understanding of various programming languages, frameworks, and development methodologies, I am equipped to contribute to cutting-edge projects in the software development industry. I welcome the opportunity to work with others on projects and am always seeking new ways to learn and develop. 
 
-I welcome the opportunity to work with others on projects and am always seeking new ways to learn and develop. 
 #### If you have a software developer job ready and would like to work together, feel free to connect via LinkedIn or email me directly at jinzh235@gmail.com 
 
 #### KEY SKILLS:
