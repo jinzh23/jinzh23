@@ -1,6 +1,6 @@
 ### Hey! I'm Jin👋
 #### 🔭 I'm a Software Developer graduate from Mission Ready HQ and I currently live in Auckland, New Zealand.
-![Software developer graduate & Media Specialist](https://media.licdn.com/dms/image/D4E16AQEbGOwBYA64qg/profile-displaybackgroundimage-shrink_350_1400/0/1685591958224?e=1692835200&v=beta&t=KF31MKey_mWuEUqPWU3lh-fiWzDe1VL0saO6PL31g7c)
+![Software developer graduate & Media Specialist]([https://media.licdn.com/dms/image/D4E16AQEbGOwBYA64qg/profile-displaybackgroundimage-shrink_350_1400/0/1685591958224?e=1692835200&v=beta&t=KF31MKey_mWuEUqPWU3lh-fiWzDe1VL0saO6PL31g7c](https://media.licdn.com/dms/image/D5616AQGdvqD0Jiu4Ow/profile-displaybackgroundimage-shrink_350_1400/0/1687349375104?e=1692835200&v=beta&t=PSucO5FfDMoxIMLAfzk9ls_MdSDF17Y4U3aSiAo-Pa8))
 
 I am a motivated and dedicated software developer graduate with a strong foundation in programming and a serious passion in front-end for UI effects and creating intuitive, dynamic user experiences. I have more than 8-years of experience in multi-media design.
 
