@@ -9,13 +9,12 @@ With a solid understanding of various programming languages, frameworks, and dev
 
 I welcome the opportunity to work with others on projects and am always seeking new ways to learn and develop. If you have a software developer job ready and would like to work together, feel free to connect via LinkedIn or email me directly at jinzh235@gmail.com
 
-Skills: Web Development: HTML, CSS, JavaScript, TypeScript, SASS, React, Express.js, Node.js, DevOps, MySQL, MongoDB
-
 🔭 I’m currently a Software Development student at Mission Ready.
 
 #### KEY SKILLS:
 - #### HTML, CSS, JavaScript, TypeScript, SASS, React, Express.js, Node.js, DevOps, MySQL, MongoDB
 - #### Database Management: MySQL, MongoDB
+  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jinzh23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jin-zhang-aa8343279//)  
 
