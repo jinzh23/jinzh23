@@ -1,5 +1,5 @@
-### Hi there 👋, Jin Zhang
-#### Software developer graduate & Media Specialist
+### Hey! I'm Jin👋
+#### I'm a Software Developer graduate & Media Specialist
 ![Software developer graduate & Media Specialist](https://media.licdn.com/dms/image/D4E16AQEbGOwBYA64qg/profile-displaybackgroundimage-shrink_350_1400/0/1685591958224?e=1692835200&v=beta&t=KF31MKey_mWuEUqPWU3lh-fiWzDe1VL0saO6PL31g7c)
 
 I'm a software developer graduate from Mission Ready HQ.
