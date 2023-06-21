@@ -9,7 +9,7 @@ With a solid understanding of various programming languages, frameworks, and dev
 #### If you have a software developer job ready and would like to work together, feel free to connect via LinkedIn or email me directly at jinzh235@gmail.com 
 
 #### KEY SKILLS:
-- #### HTML, CSS, JavaScript, TypeScript, SASS, React, Express.js, Node.js, DevOps, MySQL, MongoDB
+- #### Languages and Frameworks: HTML, CSS, JavaScript, TypeScript, SASS, React, Express.js, Node.js, DevOps, MySQL, MongoDB
 - #### Database Management: MySQL, MongoDB
   
 
