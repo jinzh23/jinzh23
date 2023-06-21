@@ -1,9 +1,7 @@
 ### Hey! I'm Jin👋
 ### I'm a Software Developer graduate & Media Specialist
+### I currently live in Auckland, New Zealand, and I am also a bilingual speaker who is fluent in both English and Mandarin.
 ![Software developer graduate & Media Specialist](https://media.licdn.com/dms/image/D4E16AQEbGOwBYA64qg/profile-displaybackgroundimage-shrink_350_1400/0/1685591958224?e=1692835200&v=beta&t=KF31MKey_mWuEUqPWU3lh-fiWzDe1VL0saO6PL31g7c)
-
-I'm a software developer graduate from Mission Ready HQ.
-I currently live in Auckland, New Zealand, and I am also a bilingual speaker who is fluent in both English and Mandarin.
 
 I am a motivated and dedicated software developer graduate with a strong foundation in programming and a serious passion in front-end for UI effects and creating intuitive, dynamic user experiences. I have more than 8-years of experience in multi-media design.
 
