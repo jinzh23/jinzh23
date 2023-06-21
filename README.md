@@ -1,6 +1,6 @@
 ### Hey! I'm Jin👋
 #### 🔭 I'm a Software Developer graduate from Mission Ready HQ and I currently live in Auckland, New Zealand.
-![Software developer graduate & Media Specialist](https://github.com/jinzh23/jinzh23/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).png?raw=true)
+![Software developer graduate & Media Specialist](https://github.com/jinzh23/jinzh23/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(4).png?raw=true)
 
 I am a motivated and dedicated software developer graduate with a strong foundation in programming and a serious passion in front-end for UI effects and creating intuitive, dynamic user experiences. I have more than 8-years of experience in multi-media design.
 
